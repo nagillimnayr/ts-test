@@ -1,0 +1,16 @@
+{
+  "name": "ts-test",
+  "version": "1.0.0",
+  "description": "Testing setting up a Typescript project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Milligan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.3",
+    "ts-loader": "^9.4.3",
+    "typescript": "^5.0.4"
+  }
+}
